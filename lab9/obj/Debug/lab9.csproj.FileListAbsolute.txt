@@ -1,0 +1,30 @@
+c:\users\sinhvien\documents\visual studio 2013\Projects\lab9\lab9\bin\Debug\lab9.exe.config
+c:\users\sinhvien\documents\visual studio 2013\Projects\lab9\lab9\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+c:\users\sinhvien\documents\visual studio 2013\Projects\lab9\lab9\obj\Debug\lab9.Form1.resources
+c:\users\sinhvien\documents\visual studio 2013\Projects\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+c:\users\sinhvien\documents\visual studio 2013\Projects\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.Cache
+c:\users\sinhvien\documents\visual studio 2013\Projects\lab9\lab9\bin\Debug\lab9.exe
+c:\users\sinhvien\documents\visual studio 2013\Projects\lab9\lab9\bin\Debug\lab9.pdb
+c:\users\sinhvien\documents\visual studio 2013\Projects\lab9\lab9\obj\Debug\lab9.exe
+c:\users\sinhvien\documents\visual studio 2013\Projects\lab9\lab9\obj\Debug\lab9.pdb
+C:\Users\Admin\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\Admin\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\Admin\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.pdb
+C:\Users\Admin\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\Admin\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\Admin\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.Form1.resources
+C:\Users\Admin\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\Admin\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.pdb
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.FLogin.resources
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.FQLKH.resources
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.FMain.resources
+C:\Users\Admin\OneDrive\Desktop\HoangHiep\Nam2HK3\ChuyenDeNet\lab9\lab9\obj\Debug\lab9.FRegistration.resources
